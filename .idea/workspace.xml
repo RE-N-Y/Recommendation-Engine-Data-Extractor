@@ -2,24 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0038a5dd-2cd1-4591-a2e6-7043c89e60d6" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/Main.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_json_json_20160807.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jsoup_jsoup_1_11_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Parser.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/inputs/anime.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Main.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/outputs/animeList.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/outputs/animeList1.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/outputs/animeList2.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/outputs/animeList3.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/outputs/animeList4.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/Main.java" afterPath="$PROJECT_DIR$/src/main/java/Main.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -38,18 +22,17 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="284" column="98" lean-forward="false" selection-start-line="284" selection-start-column="98" selection-end-line="284" selection-end-column="98" />
+            <state relative-caret-position="-2026">
+              <caret line="157" column="25" lean-forward="false" selection-start-line="157" selection-start-column="25" selection-end-line="157" selection-end-column="25" />
               <folding>
-                <element signature="method#duplicateRemover#0;class#Main#0" expanded="false" />
-                <element signature="method#anime_extractor#0;class#Main#0" expanded="false" />
-                <element signature="method#parser#0;class#Main#0" expanded="false" />
-                <element signature="method#finalizer#0;class#Main#0" expanded="false" />
-                <element signature="method#remover#0;class#Main#0" expanded="false" />
-                <element signature="method#formatter#0;class#Main#0" expanded="false" />
+                <element signature="e#871#879#0" expanded="true" />
+                <element signature="e#5806#5814#0" expanded="true" />
+                <element signature="e#8429#8440#0" expanded="true" />
+                <element signature="e#8506#8517#0" expanded="true" />
+                <element signature="e#11313#11321#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -58,8 +41,8 @@
       <file leaf-file-name="animeList.json" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/outputs/animeList.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="2192" column="56" lean-forward="false" selection-start-line="2192" selection-start-column="56" selection-end-line="2192" selection-end-column="56" />
+            <state relative-caret-position="0">
+              <caret line="0" column="379" lean-forward="true" selection-start-line="0" selection-start-column="379" selection-end-line="0" selection-end-column="379" />
               <folding />
             </state>
           </provider>
@@ -78,7 +61,7 @@
       <file leaf-file-name="animeList2.json" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/outputs/animeList2.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="689">
+            <state relative-caret-position="118290">
               <caret line="7886" column="438" lean-forward="false" selection-start-line="7886" selection-start-column="438" selection-end-line="7886" selection-end-column="438" />
               <folding />
             </state>
@@ -88,17 +71,17 @@
       <file leaf-file-name="animeList3.json" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/outputs/animeList3.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="667">
+            <state relative-caret-position="12315">
               <caret line="821" column="483" lean-forward="false" selection-start-line="821" selection-start-column="483" selection-end-line="821" selection-end-column="483" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="animeList4.json" pinned="false" current-in-tab="true">
+      <file leaf-file-name="animeList4.json" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/outputs/animeList4.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-35693">
+            <state relative-caret-position="450">
               <caret line="30" column="187" lean-forward="false" selection-start-line="30" selection-start-column="187" selection-end-line="30" selection-end-column="187" />
               <folding />
             </state>
@@ -142,6 +125,7 @@
       <find>32660</find>
       <find>32982</find>
       <find>5</find>
+      <find>description</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -161,8 +145,8 @@
         <option value="$PROJECT_DIR$/src/main/outputs/animeList1.json" />
         <option value="$PROJECT_DIR$/src/main/outputs/animeList2.json" />
         <option value="$PROJECT_DIR$/src/main/outputs/animeList3.json" />
-        <option value="$PROJECT_DIR$/src/main/java/Main.java" />
         <option value="$PROJECT_DIR$/src/main/outputs/animeList4.json" />
+        <option value="$PROJECT_DIR$/src/main/java/Main.java" />
       </list>
     </option>
   </component>
@@ -187,7 +171,8 @@
     </navigator>
     <panes>
       <pane id="Scratches" />
-      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -199,8 +184,7 @@
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -347,6 +331,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -355,18 +340,18 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329602" sideWeight="0.50572246" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33706468" sideWeight="0.49713877" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33706468" sideWeight="0.49713877" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23462088" sideWeight="0.494705" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24034335" sideWeight="0.494705" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.0" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23175965" sideWeight="0.5060423" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.0" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -409,7 +394,7 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="2" />
+      <option name="time" value="3" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -419,12 +404,11 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="method#duplicateRemover#0;class#Main#0" expanded="false" />
-            <element signature="method#anime_extractor#0;class#Main#0" expanded="false" />
-            <element signature="method#parser#0;class#Main#0" expanded="false" />
-            <element signature="method#finalizer#0;class#Main#0" expanded="false" />
-            <element signature="method#remover#0;class#Main#0" expanded="false" />
-            <element signature="method#formatter#0;class#Main#0" expanded="false" />
+            <element signature="e#871#879#0" expanded="true" />
+            <element signature="e#5806#5814#0" expanded="true" />
+            <element signature="e#8429#8440#0" expanded="true" />
+            <element signature="e#8506#8517#0" expanded="true" />
+            <element signature="e#11313#11321#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -441,12 +425,11 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="method#duplicateRemover#0;class#Main#0" expanded="false" />
-            <element signature="method#anime_extractor#0;class#Main#0" expanded="false" />
-            <element signature="method#parser#0;class#Main#0" expanded="false" />
-            <element signature="method#finalizer#0;class#Main#0" expanded="false" />
-            <element signature="method#remover#0;class#Main#0" expanded="false" />
-            <element signature="method#formatter#0;class#Main#0" expanded="false" />
+            <element signature="e#871#879#0" expanded="true" />
+            <element signature="e#5806#5814#0" expanded="true" />
+            <element signature="e#8429#8440#0" expanded="true" />
+            <element signature="e#8506#8517#0" expanded="true" />
+            <element signature="e#11313#11321#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -464,12 +447,11 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="method#duplicateRemover#0;class#Main#0" expanded="false" />
-            <element signature="method#anime_extractor#0;class#Main#0" expanded="false" />
-            <element signature="method#parser#0;class#Main#0" expanded="false" />
-            <element signature="method#finalizer#0;class#Main#0" expanded="false" />
-            <element signature="method#remover#0;class#Main#0" expanded="false" />
-            <element signature="method#formatter#0;class#Main#0" expanded="false" />
+            <element signature="e#871#879#0" expanded="true" />
+            <element signature="e#5806#5814#0" expanded="true" />
+            <element signature="e#8429#8440#0" expanded="true" />
+            <element signature="e#8506#8517#0" expanded="true" />
+            <element signature="e#11313#11321#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -479,12 +461,11 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="method#duplicateRemover#0;class#Main#0" expanded="false" />
-            <element signature="method#anime_extractor#0;class#Main#0" expanded="false" />
-            <element signature="method#parser#0;class#Main#0" expanded="false" />
-            <element signature="method#finalizer#0;class#Main#0" expanded="false" />
-            <element signature="method#remover#0;class#Main#0" expanded="false" />
-            <element signature="method#formatter#0;class#Main#0" expanded="false" />
+            <element signature="e#871#879#0" expanded="true" />
+            <element signature="e#5806#5814#0" expanded="true" />
+            <element signature="e#8429#8440#0" expanded="true" />
+            <element signature="e#8506#8517#0" expanded="true" />
+            <element signature="e#11313#11321#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -494,12 +475,11 @@
         <state relative-caret-position="330">
           <caret line="22" column="43" lean-forward="false" selection-start-line="22" selection-start-column="43" selection-end-line="22" selection-end-column="43" />
           <folding>
-            <element signature="method#duplicateRemover#0;class#Main#0" expanded="false" />
-            <element signature="method#anime_extractor#0;class#Main#0" expanded="false" />
-            <element signature="method#parser#0;class#Main#0" expanded="false" />
-            <element signature="method#finalizer#0;class#Main#0" expanded="false" />
-            <element signature="method#remover#0;class#Main#0" expanded="false" />
-            <element signature="method#formatter#0;class#Main#0" expanded="false" />
+            <element signature="e#871#879#0" expanded="true" />
+            <element signature="e#5806#5814#0" expanded="true" />
+            <element signature="e#8429#8440#0" expanded="true" />
+            <element signature="e#8506#8517#0" expanded="true" />
+            <element signature="e#11313#11321#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -509,12 +489,11 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="method#duplicateRemover#0;class#Main#0" expanded="false" />
-            <element signature="method#anime_extractor#0;class#Main#0" expanded="false" />
-            <element signature="method#parser#0;class#Main#0" expanded="false" />
-            <element signature="method#finalizer#0;class#Main#0" expanded="false" />
-            <element signature="method#remover#0;class#Main#0" expanded="false" />
-            <element signature="method#formatter#0;class#Main#0" expanded="false" />
+            <element signature="e#871#879#0" expanded="true" />
+            <element signature="e#5806#5814#0" expanded="true" />
+            <element signature="e#8429#8440#0" expanded="true" />
+            <element signature="e#8506#8517#0" expanded="true" />
+            <element signature="e#11313#11321#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -524,12 +503,11 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="method#duplicateRemover#0;class#Main#0" expanded="false" />
-            <element signature="method#anime_extractor#0;class#Main#0" expanded="false" />
-            <element signature="method#parser#0;class#Main#0" expanded="false" />
-            <element signature="method#finalizer#0;class#Main#0" expanded="false" />
-            <element signature="method#remover#0;class#Main#0" expanded="false" />
-            <element signature="method#formatter#0;class#Main#0" expanded="false" />
+            <element signature="e#871#879#0" expanded="true" />
+            <element signature="e#5806#5814#0" expanded="true" />
+            <element signature="e#8429#8440#0" expanded="true" />
+            <element signature="e#8506#8517#0" expanded="true" />
+            <element signature="e#11313#11321#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -539,12 +517,11 @@
         <state relative-caret-position="60">
           <caret line="4" column="27" lean-forward="true" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="27" />
           <folding>
-            <element signature="method#duplicateRemover#0;class#Main#0" expanded="false" />
-            <element signature="method#anime_extractor#0;class#Main#0" expanded="false" />
-            <element signature="method#parser#0;class#Main#0" expanded="false" />
-            <element signature="method#finalizer#0;class#Main#0" expanded="false" />
-            <element signature="method#remover#0;class#Main#0" expanded="false" />
-            <element signature="method#formatter#0;class#Main#0" expanded="false" />
+            <element signature="e#871#879#0" expanded="true" />
+            <element signature="e#5806#5814#0" expanded="true" />
+            <element signature="e#8429#8440#0" expanded="true" />
+            <element signature="e#8506#8517#0" expanded="true" />
+            <element signature="e#11313#11321#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -603,25 +580,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/main/outputs/animeList2.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="284" column="98" lean-forward="false" selection-start-line="284" selection-start-column="98" selection-end-line="284" selection-end-column="98" />
-          <folding>
-            <element signature="method#duplicateRemover#0;class#Main#0" expanded="false" />
-            <element signature="method#anime_extractor#0;class#Main#0" expanded="false" />
-            <element signature="method#parser#0;class#Main#0" expanded="false" />
-            <element signature="method#finalizer#0;class#Main#0" expanded="false" />
-            <element signature="method#remover#0;class#Main#0" expanded="false" />
-            <element signature="method#formatter#0;class#Main#0" expanded="false" />
-          </folding>
+        <state relative-caret-position="118290">
+          <caret line="7886" column="438" lean-forward="false" selection-start-line="7886" selection-start-column="438" selection-end-line="7886" selection-end-column="438" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/outputs/animeList3.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="12315">
+          <caret line="821" column="483" lean-forward="false" selection-start-line="821" selection-start-column="483" selection-end-line="821" selection-end-column="483" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/outputs/animeList4.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="30" column="187" lean-forward="false" selection-start-line="30" selection-start-column="187" selection-end-line="30" selection-end-column="187" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/outputs/animeList.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="2192" column="56" lean-forward="false" selection-start-line="2192" selection-start-column="56" selection-end-line="2192" selection-end-column="56" />
+        <state relative-caret-position="0">
+          <caret line="0" column="379" lean-forward="true" selection-start-line="0" selection-start-column="379" selection-end-line="0" selection-end-column="379" />
           <folding />
         </state>
       </provider>
@@ -634,27 +620,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/outputs/animeList2.json">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="689">
-          <caret line="7886" column="438" lean-forward="false" selection-start-line="7886" selection-start-column="438" selection-end-line="7886" selection-end-column="438" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/outputs/animeList3.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="667">
-          <caret line="821" column="483" lean-forward="false" selection-start-line="821" selection-start-column="483" selection-end-line="821" selection-end-column="483" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/outputs/animeList4.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-35693">
-          <caret line="30" column="187" lean-forward="false" selection-start-line="30" selection-start-column="187" selection-end-line="30" selection-end-column="187" />
-          <folding />
+        <state relative-caret-position="-2026">
+          <caret line="157" column="25" lean-forward="false" selection-start-line="157" selection-start-column="25" selection-end-line="157" selection-end-column="25" />
+          <folding>
+            <element signature="e#871#879#0" expanded="true" />
+            <element signature="e#5806#5814#0" expanded="true" />
+            <element signature="e#8429#8440#0" expanded="true" />
+            <element signature="e#8506#8517#0" expanded="true" />
+            <element signature="e#11313#11321#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

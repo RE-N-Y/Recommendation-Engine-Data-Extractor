@@ -155,7 +155,7 @@ public class Main{
         try {
             Writer output = new BufferedWriter(new FileWriter("data.xml"));
             Files.lines(path).forEach(e->usernames.add(e));
-            for (int i=78032;i<usernames.size();i++) {
+            for (int i=0e;i<usernames.size();i++) { //78032
                 run(usernames.get(i),output);
             }
 
@@ -286,7 +286,7 @@ public class Main{
             Path path = FileSystems.getDefault().getPath("src/main/inputs/anime.json");
             ArrayList<String> animeIds = new ArrayList<String>();
             Files.lines(path).forEach(e->animeIds.add(e));
-            for (int i=(2225+44+7887+822); i<animeIds.size();i++) {
+            for (int i=0; i<animeIds.size();i++) {
                 if(animeIds.get(i).equals("34606")) continue;
                 TimeUnit.MILLISECONDS.sleep(900);
                 URL url = new URL("https://myanimelist.net/anime/"+animeIds.get(i));
