@@ -6,7 +6,7 @@ The user data and anime data was extracted by parsing HTML content from the webs
 Since the API provided user data in XML format, it was parsed to JSON objects to decrease size. Moreover, when the data was
 extracted, a 0.6 timeout was added to the code in order to avoid HTTP 428 error (too much requests, bascially myanimelist
 website was telling to stop sending hundreds requests per second to fetch their data). Mutlithreads were also used to extract and parse
-data faster.
+data faster. All anime data is in /src/main/outputs folder and all user data is in /src/main/output folder.
 
 ## Collected data
 The collected movie data can be found at src/main/outputs folder. Each line is a parsed JSON object containing the information of 
