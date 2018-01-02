@@ -51,14 +51,22 @@ each anime TV series/movies.
 ## Methods
 All the methods that were used for the extraction of data are included in Main.java file.
 
-duplicateRemover: removes duplicate animes in the JSON file placed at /inputs directory
+**duplicateRemover**: removes duplicate animes in the JSON file placed at /inputs directory
 animeExtractor: takes user data JSON file placed at /inputs directory and uses animeId attached in the data to fetch anime data from the web
-parser: parsers XML user data to JSON file
-finalizer: additonally parses any minor errors in XML parsing process
-extractor: extracts user XML data by using myanimelist API by taking in text file placed at /inputs directory. 
+
+**parser**: parsers XML user data to JSON file
+
+**finalizer**: additonally parses any minor errors in XML parsing process
+
+**extractor**: extracts user XML data by using myanimelist API by taking in text file placed at /inputs directory. 
            The text file should contain names of users to collect the data
-remover: removes any dummy data (users who created their accounts on myanimelist but never used them) from XML userdata file
-formatter: formats XML userdata file by removing XML declaration.
-run: helper function to collect usernames in extractor() method
-toArray: helper function that converts JSONArray objects to String arrays
-anime: collects anime data from myanimelist website
+      
+**remover**: removes any dummy data (users who created their accounts on myanimelist but never used them) from XML userdata file.
+
+**formatter**: formats XML userdata file by removing XML declaration.
+
+**run**: helper function to collect usernames in extractor() method.
+
+**toArray**: helper function that converts JSONArray objects to String arrays
+
+**anime**: collects anime data from myanimelist website
